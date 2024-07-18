@@ -1,0 +1,102 @@
+[
+    {
+      "response_type": "boys hostel",
+      "user_input": ["where", "to", "go" ,"for", "boys","is" ,"boys hostel","how" ,"find","is", "hostel", "boy" ],       
+      "bot_response": "take a left turn from library to go to boys hostel. click on the \"Show Map button\" below for the direction map",
+      "required_words": ["boys","hostel"]
+    },
+    {
+      "response_type": "girls hostel",
+      "user_input": ["where", "to", "find", "girls", "girls hostel","where","is","building", "hostel", "girl"],
+      "bot_response": "walk straight from main gate and take a right turn from MBA park to reach girls hostel. Click on the \"Show Map button\" below for direction map",
+      "required_words": ["girls","hostel"]
+    },
+    {
+      "response_type": "greeting",
+      "user_input": ["nice", "to", "meet"],
+      "bot_response": "The pleasure is all mine!",
+      "required_words": ["nice", "meet", "you"]
+    },
+    {
+      "response_type": "administration",
+      "user_input": ["how", "to","find", "administrative", "block", "where","is", "administration", "building"],
+      "bot_response": "walk straight from main road,then take a turn from library to reach administrative block.click on the \"Show Map button\" below for direction map",
+      "required_words": ["administration"]
+    },
+    {
+      "response_type": "computer",
+      "user_input": ["computer", "how","where","is", "to", "find", "department","block"],
+      "bot_response": "walk straight from the main gate, just after the library you will find the Computer department. Click on the \"Show Map button\" below for direction map",
+      "required_words": ["computer"]
+    },
+    {
+      "response_type": "library",
+      "user_input": ["library","where","is", "how", "to", "find","building"],
+      "bot_response": "Walk straight from the main gate to reach library. Click on the \"Show Map button\" for direction map.",
+      "required_words": ["library"]
+    },
+    {
+        "response_type": "shakuntalam",
+        "user_input": ["shankuntalam","where","is", "how", "to", "find","auditorium", "shakuntalam"],
+        "bot_response": "Turn left before library and then take right from boys hostel to reach shakuntalam . Click on the \"Show Map button\" below for the direction map",
+        "required_words": ["shakuntalam"]
+      },
+      {
+        "response_type": "dispensary",
+        "user_input": ["dispensary","where","is", "how", "to", "find","health","center"],
+        "bot_response": "walk straight from main gate till end of playground and turn left for dispensary. Click on the \"Show Map button\" below for the direction map",
+        "required_words": ["dispensary"]
+      },
+      {
+        "response_type": "electronics",
+        "user_input": ["electronics","where","is", "how", "to", "find","department", "electronic"],
+        "bot_response": "Walk straight from main road and turn right after computer department to reach electronics department. Click on the \"Show Map button\" below for direction map",
+        "required_words": ["electronics"]
+      },
+      {
+        "response_type": "electrical",
+        "user_input": ["electrical","where","is", "how", "to", "find","building","department"],
+        "bot_response": "Walk straight from main road and turn right after computer department to reach electrical department. Click on the \"Show Map button\" below for direction map",
+        "required_words": ["electrical"]
+      },
+      {
+        "response_type": "civil",
+        "user_input": ["civil","where","is", "how", "to", "find","building","department"],
+        "bot_response": "Walk straight from Shakuntalam and take a right turn for civil department. Click on the \"Show Map button\" below for direction map",
+        "required_words": ["civil"]
+      },
+      {
+        "response_type": "mechanical",
+        "user_input": ["mechanical","where","is", "how", "to", "find","building","department"],
+        "bot_response": "Turn right from Shakuntalam and take a left turn for mechanical department.Click on the \"Show Map button\" below for direction map",
+        "required_words": ["mechanical"]
+      },
+      {
+        "response_type": "playground",
+        "user_input": ["playground","where","is", "how", "to", "find", "the"],
+        "bot_response": "Walk straight from main gate and take a left turn for playground. Click on the \"Show Map button\" below for the map",
+        "required_words": ["playground"]
+      },
+      {
+        "response_type": "post office",
+        "user_input": ["post","where","is", "how", "to", "find","building","office"],
+        "bot_response": "Take a right after crossing main gate and continue till end for post office. Click on the \"Show Map button\" below for direction map",
+        "required_words": ["post","office"]
+      },
+      {
+        "response_type": "science block",
+        "user_input": ["science","where","is", "how", "to", "find","building","block"],
+        "bot_response": "Take a right after mechanical block and then take a left to reach science block . Click on the \"Show Map button\" below for direction map",
+        "required_words": ["science"]
+      },
+      {
+        "response_type": "canteen",
+        "user_input": ["canteen","where","is", "how", "to", "find","building"],
+        "bot_response": "Walk straight from main gate and take a right turn for canteen. Click on the \"Show Map button\" below for the map",
+        "required_words": ["canteen"]
+      }
+      
+
+
+
+  ]

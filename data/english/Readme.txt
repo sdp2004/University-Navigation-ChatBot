@@ -1,0 +1,1 @@
+This folder has day-to-day conversations data for the chatbot, with only greetings conversations being used now.
