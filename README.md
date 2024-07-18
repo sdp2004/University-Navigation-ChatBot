@@ -35,11 +35,11 @@ The University Guide App is a platform that allows users to engage to navigate t
 ## Getting Started
 
 ## Screenshots
-![](./snapshots/pic1.png)
+![](./Snapshots/pic1.png)
 
-![](./snapshots/pic2.png)
+![](./Snapshots/pic2.png)
 
-![](./snapshots/pic3.png)
+![](./Snapshots/pic3.png)
 
 
 
